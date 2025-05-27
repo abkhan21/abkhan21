@@ -6,6 +6,7 @@ Welcome! I’m deeply interested in cybersecurity and enjoy solving real-world c
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/abkhan21/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/abkhan21/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
