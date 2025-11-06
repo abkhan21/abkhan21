@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/abbaskhan-ua/">Abbas Khan</a>'s IT and Cybersecurity Project Portfolio 🛡️
 
-Welcome! I’m deeply interested in cybersecurity and enjoy solving real-world challenges through hands-on projects. From vulnerability management to threat detection, each project is a step toward mastering the tools and tactics that protect today’s digital environments. Feel free to explore my work and see how I approach securing systems and improving processes.
+Welcome! I’m an experienced cybersecurity engineer passionate about advancing enterprise security through hands-on detection engineering, automation, and continuous learning. I’ve worked across threat detection, vulnerability management, and identity security—building scalable solutions that improve visibility and reduce risk. I stay sharp by contributing to cybersecurity communities like the Cyber Range, participating in Capture-the-Flag exercises, and constantly experimenting with modern tools such as Microsoft Sentinel, Defender for Endpoint, Cribl, and Wiz. Every project you’ll find here is similar to what I’d do in an enterprise SOC environment.
 
 
 ## ⚠️ Vulnerability Management Projects
